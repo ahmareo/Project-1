@@ -53,6 +53,8 @@ h1 em { color: #80a624; font-weight: 600; }
 .sparkle { color: #91b436; font-size: 1.2rem; }
 
 .page-content { min-height: calc(100vh - 151px); padding: 12vh 0 88px; }
+.coming-soon { min-height: calc(100vh - 151px); padding: 11vh 0 88px; }
+.coming-soon h1 { font-size: clamp(3.9rem, 8.5vw, 7.8rem); }
 .page-content h1 { font-size: clamp(3.8rem, 8vw, 7rem); }
 .copy-grid { display: grid; grid-template-columns: minmax(220px, .8fr) 1fr; gap: clamp(42px, 10vw, 145px); max-width: 850px; margin-top: 62px; }
 .lead { margin: 0; font-size: 1.35rem; font-weight: 500; letter-spacing: -.025em; line-height: 1.45; }
